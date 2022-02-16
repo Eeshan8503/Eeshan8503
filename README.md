@@ -107,7 +107,7 @@
   <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:eeshanmattey@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/eeshan8503"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="linkedin.com/in/eeshanmattey"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>  </a>
+	<a href="https://linkedin.com/in/eeshanmattey"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>  </a>
 	<a href="https://instagram.com/eeshan_15"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </a>
 </p>

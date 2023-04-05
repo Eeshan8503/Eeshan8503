@@ -95,10 +95,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Eeshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eeshan8503&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   </p>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/eeshan8503"><img width="60%" alt="Rhythm's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eeshan8503&custom_title=Eeshan%20Mattey%27s%20Contribution%20Graph&theme=react-dark"/></a>
-  <br/>
+ 
 
 <br/>
 
